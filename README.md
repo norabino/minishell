@@ -1,6 +1,6 @@
 # Minishell
 
-This project has been created as part of the 42 curriculum by "norabino" - Noé RABINOVICI.
+This project has been created as part of the 42 curriculum by "norabino" - Noé RABINOVICI and "lucmansa" - Lucas Mansart.
 
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![42 School](https://img.shields.io/badge/School-42-black.svg)
